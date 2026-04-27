@@ -1,6 +1,6 @@
 ###
 
-<h1>Nelson Ocampo, Desarrolador de software en formacion</h1>
+<h1 align="center">Nelson Ocampo, Desarrolador de software en formacion</h1>
 
 ###
 
