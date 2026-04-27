@@ -1,16 +1,35 @@
-## Hi there 👋
+# CV_NelsonAndrésOcampoCastrillón
+# Hoja de Vida
 
-<!--
-**Nelson-118/Nelson-118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Nelson Andrés Ocampo Castrillón
+**Profesión:** _Analista y desarollador de software _
 
-Here are some ideas to get you started:
+## 📞 Contacto
+- **Email:** [andresocampo0723@gmail.com](mailto:andresocampo0723@gmail.com)
+- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏢 Experiencia Laboral
+### **Sena** _(2025 - Actualidad)_
+Quiero aprender a usar estos programas 
+- python
+- javascrit
+- HTML
+  
+
+## 🎓 Educación
+### **Colegio Miguel Angel Asturias** _(2023)_
+- Certificado de bachiller
+- tecnico en modelado 3D para la industria
+### **Curso de ingles en tecnisistemas**
+- Certificado 
+- ### **Sena** _(2025 - Actualidad)_
+- Analisis y desarrollo de software 
+  
+
+
+## 💡 Habilidades
+- **Tomar decisiones colectivas**
+- **Potencial para roles relacionados con el diseño de producto o la experiencia laboral**
+- **Proponer solcuiones en grupo**
+
+
