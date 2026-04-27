@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="imagenes/dark_souls.gif" width="200" alt="Dark souls">
+  <img src="imagenes/dark_souls.gif" width="300" alt="Dark souls">
 </p>
 
 ###
