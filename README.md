@@ -1,4 +1,4 @@
-![imagen](imagenes/artorias.jpg)
+<img src="imagenes/artorias.jpg" width="200" alt="Artorias">
 
 ###
 
