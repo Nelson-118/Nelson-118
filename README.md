@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hola, soy Nelson<br>Analista y desarrollador de software</h1>
+<p align="center">Hola, soy Nelson<br>Analista y desarrollador de software</p>
 
 ###
 
