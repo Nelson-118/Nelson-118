@@ -1,4 +1,6 @@
-<img src="imagenes/artorias.jpg" width="200" alt="Artorias">
+<p align="center">
+  <img src="imagenes/artorias.jpg" width="150" alt="Artorias">
+</p>
 
 ###
 
