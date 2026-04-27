@@ -1,10 +1,16 @@
+###
+
+<h1>Nelson Ocampo, Desarrolador de software en formacion</h1>
+
+###
+
 <p align="center">
   <img src="imagenes/dark_souls.gif" width="300" alt="Dark souls">
 </p>
 
 ###
 
-<p align="center">Hola, soy Nelson<br>Analista y desarrollador de software</p>
+<p align="center">Actualmente estoy cursando en el tecnologo de Analisis y Desarrollo de software, me enfoco en crear soluciones, aprender nuevas tecnologias y fortaler mis habilidades como desarrollador</p>
 
 ###
 
