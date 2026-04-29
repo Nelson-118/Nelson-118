@@ -13,8 +13,8 @@
 <p align="center">Actualmente estoy cursando en el tecnologo de Analisis y Desarrollo de software, me enfoco en crear soluciones, aprender nuevas tecnologias y fortaler mis habilidades como desarrollador</p>
 
 <p align='center'>Actualmente trabajo con tecnologías como Python, JavaScript, HTML, CSS y bases de datos como MySQL,
-desarrollando proyectos que fortalecen mis habilidades tanto en frontend como en backend.
-</p>
+desarrollando proyectos que fortalecen mis habilidades tanto en frontend como en backend. </p>
+
 ###
 
 <div style="text-align: center; margin-top: 30px;">
