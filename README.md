@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Nelson Ocampo, Desarrolador FULL-STACK en formacion</h1>
+<h1 align="center">Nelson Ocampo, Desarrollador FULL-STACK en formacion</h1>
 
 ###
 
