@@ -39,7 +39,7 @@ desarrollando proyectos que fortalecen mis habilidades tanto en frontend como en
 </div>
 
 ###
-
+<hr>
 ###
 
 <div align="center">
