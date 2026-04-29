@@ -40,7 +40,6 @@ desarrollando proyectos que fortalecen mis habilidades tanto en frontend como en
 
 ###
 <hr>
-###
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
