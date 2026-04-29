@@ -12,15 +12,33 @@
 
 <p align="center">Actualmente estoy cursando en el tecnologo de Analisis y Desarrollo de software, me enfoco en crear soluciones, aprender nuevas tecnologias y fortaler mis habilidades como desarrollador</p>
 
+<p align='center'>Actualmente trabajo con tecnologías como Python, JavaScript, HTML, CSS y bases de datos como MySQL,
+desarrollando proyectos que fortalecen mis habilidades tanto en frontend como en backend.
+</p>
+###
+
 <div style="text-align: center; margin-top: 30px;">
 
-  <h2>📚 Actualmente aprendiendo</h2>
-  <p>Desarrollo backend • APIs REST • Buenas prácticas de programación</p>
+<h2>📚 Actualmente aprendiendo</h2>
+<ul>
+  <li>🔹 Desarrollo backend</li>
+  <li>🔹 Construcción de APIs REST</li>
+  <li>🔹 Buenas prácticas de programación</li>
+  <li>🔹 Manejo de bases de datos</li>
+</ul>
 
-  <h2>⚡ Sobre mí</h2>
-  <p>🎓 Estudiante en el SENA • 💡 Me gusta resolver problemas • 🚀 En constante aprendizaje</p>
+
+<h2>⚡ Sobre mí</h2>
+<ul>
+  <li>🎓 Estudiante en el SENA</li>
+  <li>💡 Apasionado por la tecnología y el desarrollo</li>
+  <li>🧠 En constante aprendizaje y mejora</li>
+  <li>🚀 Enfocado en convertirme en desarrollador full stack</li>
+</ul>
 
 </div>
+
+###
 
 ###
 
