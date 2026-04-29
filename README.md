@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">Nelson Ocampo, Desarrolador de software en formacion</h1>
+<h1 align="center">Nelson Ocampo, Desarrolador FULL-STACK en formacion</h1>
 
 ###
 
@@ -11,6 +11,16 @@
 ###
 
 <p align="center">Actualmente estoy cursando en el tecnologo de Analisis y Desarrollo de software, me enfoco en crear soluciones, aprender nuevas tecnologias y fortaler mis habilidades como desarrollador</p>
+
+<div style="text-align: center; margin-top: 30px;">
+
+  <h2>📚 Actualmente aprendiendo</h2>
+  <p>Desarrollo backend • APIs REST • Buenas prácticas de programación</p>
+
+  <h2>⚡ Sobre mí</h2>
+  <p>🎓 Estudiante en el SENA • 💡 Me gusta resolver problemas • 🚀 En constante aprendizaje</p>
+
+</div>
 
 ###
 
